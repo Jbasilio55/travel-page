@@ -43,6 +43,10 @@ header a:hover{
     background-color: rgb(255, 251, 0);
 }
 
+footer{
+    background: linear-gradient(70deg, rgb(24, 24, 24), rgb(25, 29, 29));
+}
+
 #page-logo a{
     padding: 10px;
     font-family: "Oleo Script", sans-serif;
